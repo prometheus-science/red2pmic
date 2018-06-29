@@ -1,0 +1,32 @@
+For testing we got the following galvo motors:
+https://www.ebay.de/itm/20Kpps-Scanning-Galvo-Set-Galvanometer-Laser-Set-for-DJ-Laser-Light-Show/312038774525?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
+
+they are normally used for laser shows.
+
+Specifications：
+
+Input voltage: 15V
+
+Peak current: 1A
+
+Rated current：0.5A
+
+Operating temperature: 0~50℃
+
+Rated scanning angle: ±20°
+
+Maximum scanning angle: ±30°
+
+Drive plate size: 80mm × 50mm × 28mm
+
+Analog signal input impedance: 200K ± 1% Ω (differential input)
+
+Analog position input range: ± 5 V.
+
+Scanning speed: 20Kpps
+
+Lens reflectivity: > 98% @ 45° incidence (coverage wavelength: 380nm-700nm）
+
+Package included：
+1X Set Galvanometer Scanner
+
